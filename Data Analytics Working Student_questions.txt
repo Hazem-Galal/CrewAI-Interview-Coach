@@ -1,0 +1,31 @@
+Here is a list of 20 questions to prepare for the Data Analytics Working Student position at Beat81, covering aspects of Culture and Team Fit, Job Position Fit, Background and Ways of Working, and Growth Mindset:
+
+### Culture and Team Fit
+1. How do you align with Beat81's mission to enhance fitness experiences through technology?
+2. Can you describe a time when you contributed to a team culture in a dynamic and fast-paced environment?
+3. How do you engage with team rituals and events to build a strong team culture?
+4. What interests you about working in the fitness and health industry, particularly with a company like Beat81?
+5. How do you handle feedback and adapt to changes in a start-up culture?
+
+### Job Position Fit
+6. How do you prioritize and manage multiple data requests from different stakeholders?
+7. Can you provide an example of a dashboard you created and how it was used to drive business decisions?
+8. Describe your experience with SQL and Python in previous projects.
+9. How familiar are you with data visualization tools like Tableau or Lookerstudio?
+10. What experience do you have with data pipelines, and how have you contributed to their improvement or scaling?
+
+### Background and Ways of Working
+11. How does your academic background in a quantitative field prepare you for this role?
+12. Describe a project where you collaborated with multiple teams (e.g., Tech, Product, Marketing) to achieve a common goal.
+13. How do you ensure accuracy and reliability in your data analysis?
+14. What is your approach to learning new technologies or tools that are required for a project?
+15. How do you balance working independently on stand-alone projects with collaborating in a team environment?
+
+### Growth Mindset
+16. How do you stay updated with the latest trends in data analytics and technology?
+17. Can you share an experience where you turned a failure or challenge into a learning opportunity?
+18. How do you set personal and professional development goals for yourself in a role like this?
+19. What motivates you to continuously improve your skills in data analytics?
+20. How do you envision contributing to Beat81's growth and innovation in the fitness industry?
+
+These questions are designed to help you reflect on your experiences and aspirations, ensuring you are well-prepared for an interview at Beat81.

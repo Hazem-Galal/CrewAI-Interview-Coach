@@ -1,0 +1,36 @@
+# Comprehensive Report on Matthias Glöel's Professional Career
+
+- **Name**: Matthias Glöel
+- **Current Position**: Analytics Engineer at BEAT81
+- **Location**: Berlin, Germany
+
+## Professional Experience
+- **BEAT81**: 
+  - **Role**: Analytics Engineer
+  - **Responsibilities**: Engages in data analytics and engineering tasks to enhance the fitness technology offerings of BEAT81. Works on integrating technology with fitness to create innovative workout experiences.
+  
+- **Previous Experience**:
+  - **diconium**:
+    - **Role**: Senior Cloud Architect
+    - **Responsibilities**: Provided deep expertise in cloud and data engineering. Acted as a problem-solver for technical issues and was a mentor to team members, fostering an environment of collaboration and innovation.
+
+## Certifications and Education
+- **Udacity Nanodegree in Data Engineering**: Completed in January 2020
+- **Certified EU Data Protection Specialist (DSGVO/GDPR)**: Awarded by Fraunhofer Academy in December 2019
+- **AWS Certified Security – Specialty**: Certified by Amazon Web Services (AWS) in March 2023
+- **AWS Certified Solutions Architect – Professional**: Certified by AWS in September 2022
+- **AWS Certified Solutions Architect – Associate**: Certified by AWS in August 2021
+- **dbt Certified Developer**: Certified by dbt Labs in July 2023
+- **HashiCorp Certified: Terraform Associate**: Certified by HashiCorp in February 2022
+
+## Skills and Endorsements
+- **Cloud and Data Engineering**: Recognized for expertise in cloud architecture and data solutions.
+- **Mentorship and Leadership**: Known for creating supportive team environments and facilitating knowledge sharing.
+- **Technical Problem Solving**: Commended for ability to identify root causes of problems and implement effective solutions.
+
+## Additional Information
+- Matthias has been actively involved in organizing local meetups and engaging with community discussions, particularly with the Snowplow community.
+- He has been praised for his ability to communicate complex ideas clearly and effectively, both within his team and in broader technical exchanges.
+
+Matthias Glöel continues to contribute to the field of analytics and engineering, leveraging his skills to drive innovation in fitness technology at BEAT81.
+```
